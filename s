@@ -1,5 +1,5 @@
 return {
-"AYfxg0QdL21TytBzqiYrFcf1tMckqk";
-"vAQePwBLwKx5jdNYEkdQSEyxB0ixwh";
-"L6rhtctvfQBqmDZcHCPMPipmubmVfD";
+"AlchemyVIP_xYfxg0QdL21TytBzqiYrFcf1tMckqk-x";
+"AlchemyVIP_xYfxg0QdL21TytBzqiYrFcf1tMckqk-y";
+"AlchemyVIP_xYfxg0QdL21TytBzqiYrFcf1tMckqk-z";
 }
